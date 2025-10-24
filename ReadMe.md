@@ -22,5 +22,5 @@ Copy of proton repo: [View on GitHub](https://github.com/CasFre4/ProtonPreserve)
 ## Installation
 Install protonvpn for linux and login or install and use [cli](https://repo.protonvpn.com/debian/dists/stable/main/binary-all/protonvpn-cli_3.13.0-1_all.deb).
 ```bash
-git clone [https://github.com/CasFre4/pyproton](https://github.com/CasFre4/pyproton)
+git clone https://github.com/CasFre4/pyproton
 ```
