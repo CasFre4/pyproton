@@ -1,0 +1,2 @@
+protonvpn_nm_lib==3.14.0
+proton=0.7.1
