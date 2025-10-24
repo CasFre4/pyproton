@@ -4,7 +4,7 @@ from protonvpn_nm_lib.enums import ConnectionTypeEnum
 from protonvpn_nm_lib.core.utilities import Utilities
 from protonvpn_nm_lib.enums import (ProtocolEnum)
 
-class ProtonPyBasic:
+class PyProton:
     def __init__(self, errors_enabled=False):
         self._env = ExecutionEnvironment()
         self._utils = Utilities
