@@ -1,4 +1,4 @@
-# ProtonVPN Connection Manager for Linux(Ubuntu)
+# DEPRECATED: ProtonVPN Connection Manager for Linux(Ubuntu)
 A lightweight Python wrapper built on top of [`protonvpn_nm_lib`](https://github.com/ProtonVPN/linux-cli-community) that provides simple methods to **login**, **logout**, **connect**, **reconnect**, and **disconnect** from ProtonVPN servers.
 
 Project URL: [View on GitHub](https://github.com/CasFre4/pyproton)
